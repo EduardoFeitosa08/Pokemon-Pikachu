@@ -60,7 +60,7 @@ h2{
 .pikachu-menor{
     font-size: 300px;
     position: relative;
-    bottom: 170px;
+    bottom: 330px;
 }
 
 section img{
@@ -144,6 +144,7 @@ footer p{
 
     .pikachu-menor{
         font-size: 180px;
+        bottom: 160px;
     }
 
     section img{
